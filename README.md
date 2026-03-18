@@ -65,7 +65,12 @@ The system follows a simple layered architecture:
 ---
 
 ## 📸 Screenshots
-(Add screenshots of your project here for better understanding)
+<img width="940" height="424" alt="image" src="https://github.com/user-attachments/assets/4342bbd8-81fe-4ad8-a90e-ebe689378e8d" />
+<img width="940" height="503" alt="image" src="https://github.com/user-attachments/assets/47a6706d-696a-47b6-bfc9-113a8c04d09c" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/07a6bc22-b969-461b-a859-6ffd38e069ad" />
+
+
+
 
 ---
 
