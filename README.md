@@ -90,4 +90,3 @@ https://github.com/Mayuri087/HYDROKART--Packaged-Drinking-Water-Supply-System
 
 ## 📜 License
 © 2026 Mayuri Bansode. All Rights Reserved.
-This project is for academic purposes only. Unauthorized use, copying, or distribution is prohibited.
