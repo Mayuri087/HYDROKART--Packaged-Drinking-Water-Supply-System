@@ -12,7 +12,7 @@ HYDROKART is a system designed to manage and supply packaged drinking water effi
 ## 🛠️ Technologies Used
 - Java
 - NetBeans IDE
-- (Add database if used: MySQL / Oracle)
+- (Add database: MySQL)
 
 ## 🚀 How to Run
 1. Open project in NetBeans
